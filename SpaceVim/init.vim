@@ -171,3 +171,6 @@ set noswapfile
 " Treat long lines as break lines (useful when moving around in them)
 map j gj
 map k gk
+
+"insert slash when input file path
+set shellslash
